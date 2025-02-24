@@ -1,4 +1,4 @@
-# 👾 Hey, I'm Mina! | 🏴‍☠️ Application Security Analyst
+# 👾 Mina Aziz 🏴‍☠️ Application Security Analyst
 
 > "If it has an input, it can be exploited."  
 
