@@ -15,6 +15,9 @@
 ---
 
 ## 🛠 **Projects & Tools I’ve Built**
+🚀 **How I Shoot Web** – In depth guide to my Web Testing Methodology**  
+📌 [GitHub](https://github.com/minaaziz9/How-I-shoot-Web)  
+
 🚀 **LLM Security Sandbox** – Automates **prompt injection attacks & jailbreak testing**  
 📌 [GitHub](https://github.com/minaaziz9/LLM-Security-Sandbox)  
 
