@@ -36,10 +36,10 @@
 ---
 
 ## 🎓 **Certifications & Achievements**
+✅ **Security+ ** – Comptia
 ✅ **eJPT** – eLearnSecurity Junior Penetration Tester  
 ✅ **eWPT** – eLearnSecurity Web Application Penetration Tester  
-🔥 **ECIR (In Progress)** – Incident Response & Threat Hunting  
-
+✅ **ECIR ** – Incident Response & Threat Hunting    
 ---
 
 ## 🎮 **Fun Facts**
