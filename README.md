@@ -37,8 +37,8 @@
 ---
 
 ## 🎓 **Certifications & Achievements**
-✅ **CompTIA Security+** – Sept 2024  
-✅ **EC-Council CEH (Certified Ethical Hacker)** – Oct 2024  
+✅ **CompTIA Security+** – Sept 2025  
+✅ **EC-Council CEH (Certified Ethical Hacker)** – Oct 2025  
 ✅ **eJPT** – eLearnSecurity Junior Penetration Tester  
 ✅ **eWPT** – eLearnSecurity Web Application Penetration Tester  
 
