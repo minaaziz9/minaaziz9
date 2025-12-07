@@ -15,6 +15,8 @@
 ---
 
 ## 🛠 **Projects & Tools I’ve Built**
+🚀 **Vulnerable Web Application** – On Purpose Insecure Webapp **Featuring OWASP Top 10**  
+📌 [GitHub](https://github.com/minaaziz9/Vulnerable-Web-Application-MinaAziz)
 
 🚀 **How I Shoot Web** – In-depth guide to my **Web Testing Methodology**  
 📌 [GitHub](https://github.com/minaaziz9/How-I-shoot-Web)
@@ -33,7 +35,6 @@
 
 🌐 **Subdomain Enumeration API** – Flask-based **subdomain enumeration tool**  
 📌 [GitHub](https://github.com/minaaziz9/subdomain-enum-tool)
-
 ---
 
 ## 🎓 **Certifications & Achievements**
